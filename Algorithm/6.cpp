@@ -37,16 +37,5 @@ int main() {
   printf("%f / %f = %f\n", a, b, div1);
 
   // ºÎµ¿¼Ò¼öÁ¡(floating point)
-  int sum1 = a + b;
-  int min1 = a - b;
-  int mul1 = a * b;
-  int div1 = a / b;
-  int div2 = a % b;   // 5%3 = 2 ?‚˜ë¨¸ì?? ë°˜í™˜
 
-  printf("%d + %d = %d\n", a, b, sum1);
-  printf("%d - %d = %d\n", a, b, min1);
-  printf("%d * %d = %d\n", a, b, mul1);
-  printf("%d / %d = %d\n", a, b, div1);
-  printf("%d + %d = %d\n", a, b, div2);
-  
 }
