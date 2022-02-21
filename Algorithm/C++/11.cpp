@@ -15,4 +15,5 @@ int main() {
     printf("%d * %d = %d\n", a, b, mul1);
     printf("%d / %d = %d\n", a, b, div1); 
 
+
 }
