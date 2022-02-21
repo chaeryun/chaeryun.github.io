@@ -3,7 +3,7 @@
 int main() {
     int a, b;
 
-    scanf("%d%d", &a, &b);  //&:포인터
+    scanf("%d%d", &a, &b);  //& : 포인터
 
     int sum1 = a + b;
     int min1 = a - b;
